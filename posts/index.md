@@ -3,7 +3,7 @@ MindStone is a free open-source alternative solution to [Obsidian Publish](https
 
 Here how it look like once published:
 
-![](/images/CleanShot%202022-04-20%20at%2008.34.17@2x.png)
+TOday's date
 
 This website include a published version of default Obsidian Help vault, [[Start here]]
 
