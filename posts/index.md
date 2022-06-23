@@ -1,9 +1,8 @@
+
 ## What is MindStone?
 MindStone is a free open-source alternative solution to [Obsidian Publish](https://obsidian.md/publish)
 
 Here how it look like once published:
-
-TOday's date
 
 This website include a published version of default Obsidian Help vault, [[Start here]]
 
@@ -55,3 +54,8 @@ This an early version of MindStone, which mean there are bugs and issues. Below 
 - Graphview does not load when clicking on side-bar or click node on graphview, browser reload will refresh it state
 - Graph view layout and interaction is still very rough. More UI/UX improvements are needed.
 - Transclusion is not working yet.
+
+
+## Devlog
+- copy over http://this-little-corner.com/?view=glossary
+- figure out embed
