@@ -57,5 +57,6 @@ This an early version of MindStone, which mean there are bugs and issues. Below 
 
 
 ## Devlog
-- copy over http://this-little-corner.com/?view=glossary
+- copy over [This little corner glossary](http://this-little-corner.com/?view=glossary)
 - figure out embed
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gyx5tyFttfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
